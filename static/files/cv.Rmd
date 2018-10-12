@@ -13,7 +13,7 @@ geometry: margin=1in
 github: Brieuxcollette
 jobtitle: Etudiant à l'Université de Mons
 keywords: Biologie, Science des données
-linkcolor: blue
+linkcolor: red
 fontawesome: no
 address: 8 avenue du Champ de Mars, 7000 Mons, Belgique
 updated: yes
@@ -24,7 +24,7 @@ urlcolor: blue
 
 *Université de Mons*, Bachelier en Biologie \hfill 2020
 
-*Ecole secondaire*, orientation \hfill 2017
+*Athénée Royal de dour*, orientation \hfill 2017
 
 
 # EMPLOIS
