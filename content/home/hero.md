@@ -27,7 +27,7 @@ weight = 3
 
 Brieux Collette
 <br>
-<small>A short description of myself here</small>
+<small>I'm a biologist</small>
 <br><br>
 
 <script type="text/javascript">
