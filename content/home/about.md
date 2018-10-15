@@ -34,4 +34,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium. I really like biology and i like animals too. I like to learn new interesting things
+I am student at the University of Mons, Belgium. I really like biology and i like animals too. I like to learn new interesting things.
