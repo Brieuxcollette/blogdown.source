@@ -6,7 +6,7 @@ tags = ["academic", "hugo"]
 title = "Mon premier blog"
 math = true
 summary = """
-Résumé en une ou deux phrases ici. 
+En sciences des données, on apprend à utiliser le langage markdown à l'aide d'une machine virtuelle 
 """
 
 [header]
