@@ -27,4 +27,4 @@ image = "headers/Cellule.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
-Here I describe my project using Markdown formatting...
+Here I describe my project using Markdown formatting. An Informatician language that i learned at the University
