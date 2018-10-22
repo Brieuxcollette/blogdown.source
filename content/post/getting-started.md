@@ -10,7 +10,7 @@ En sciences des données, on apprend à utiliser le langage markdown à l'aide d
 """
 
 [header]
-image = "headers/secondary-header.jpg"
+image = "headers/pro.PNG"
 caption = "Image credit: **Derek Thompson** on Unsplash"
 preview = false
 
