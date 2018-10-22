@@ -20,4 +20,4 @@ Le contenu ici
 
 ## Mon premier blog
 
-Du texte **avec une partie en gras**...
+J'adore le language markdown, c'est utile et pratique.
