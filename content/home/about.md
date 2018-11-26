@@ -12,6 +12,9 @@ weight = 5
   interests = [
     "Biology",
     "Chemistry"
+    "Oceanography"
+    "Archeology"
+  
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,8 +29,8 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
+  course = "Biology"
+  institution = "My high school : Athénée Royal de Dour"
   year = 2018
 
 +++

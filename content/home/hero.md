@@ -27,7 +27,7 @@ weight = 3
 
 Brieux Collette
 <br>
-<small>I'm a biologist</small>
+<small>This site talk about me and the carrier I should make in biology</small>
 <br><br>
 
 <script type="text/javascript">
