@@ -10,7 +10,7 @@ In Biodata science, we are learning the informatical language named Markdown. Wi
 """
 
 [header]
-image = "headers/pro.PNG"
+image = "headers/Pro.png"
 caption = "Image credit: **Derek Thompson** on Unsplash"
 preview = false
 
